@@ -1,0 +1,4 @@
+ERROR:root:Error sending email:[Errno 2] No such file or directory: 'filtered_employees.xlsx'
+ERROR:root:Error sending email:[Errno 22] Invalid argument: 'C:\\JenkinsScripts\x0ciltered_employees.xlsx'
+ERROR:root:Error sending email:[Errno 2] No such file or directory: 'C:\\JenkinsScriptsfiltered_employees.xlsx'
+INFO:root:Email sent successfully
